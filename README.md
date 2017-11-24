@@ -1,6 +1,6 @@
 # AEC algorithms comparison
 This was the final project for the course Model Identification and Adaptive Systems. 
-Developed by me and @rtirene
+Developed by @rtirene and me
 
 ### Briefly
 This project was ment to compare the performance of the following adaptive algorithms:
